@@ -10,5 +10,5 @@ HI, I am Iman Allahverdiyev
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Imann7&icon=5&color=12)](https://visitcount.itsvg.in)
+
 
