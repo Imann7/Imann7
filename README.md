@@ -1,5 +1,5 @@
 
-<h1 align="center">HI, I'm Iman Allahverdiyev</h1>
+<h1 align="center">HI, I'm Iman Allahverdiyev.</h1>
 <h3 align="center">A junior Frontend developer (React)</h3>
 
 <h2 align="center">Socials:</h2>
