@@ -1,5 +1,5 @@
 
-<h2 align="left">Iman Allahverdiyev.</h2>
+<h1 align="left">Iman Allahverdiyev.</h1>
 
 
 <h2 align="left">Socials:</h2>
